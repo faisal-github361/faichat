@@ -1,0 +1,7 @@
+database :
+==========
+chat
+
+table :
+=========
+chat
